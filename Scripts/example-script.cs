@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enable : MonoBehaviour
+public class example-script : MonoBehaviour
 {
     public GameObject objectEnable;
 
